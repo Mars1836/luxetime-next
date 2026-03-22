@@ -1,0 +1,76 @@
+[
+  {
+    "id": 1,
+    "slug": "rolex-submariner-116610ln",
+    "name": "Rolex Submariner 116610LN",
+    "brand": "Rolex",
+    "price": 250000000,
+    "gender": "nam",
+    "movement": "automatic",
+    "waterResistance": "300m",
+    "description": "Dòng đồng hồ lặn kinh điển của Rolex.",
+    "images": [
+      "https://images.unsplash.com/photo-1546868871-7041f2a55e12?w=400",
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400"
+    ],
+    "stock": 3,
+    "isHot": true
+  },
+  {
+    "id": 2,
+    "slug": "omega-speedmaster-moonwatch",
+    "name": "Omega Speedmaster Moonwatch",
+    "brand": "Omega",
+    "price": 150000000,
+    "gender": "nam",
+    "movement": "manual",
+    "waterResistance": "50m",
+    "description": "Chiếc đồng hồ \"Moonwatch\" nổi tiếng của Omega.",
+    "images": [
+      "https://images.unsplash.com/photo-1587836374828-4dbafa94cf0e?w=400",
+      "https://images.unsplash.com/photo-1542496658-e33a6d0c50f6?w=400"
+    ],
+    "stock": 5,
+    "isHot": true
+  },
+  {
+    "id": 3,
+    "slug": "casio-gshock-ga-2100",
+    "name": "Casio G-Shock GA-2100",
+    "brand": "Casio",
+    "price": 3500000,
+    "gender": "nam",
+    "movement": "quartz",
+    "waterResistance": "200m",
+    "description": "G-Shock \"CasiOak\" hot trend, bền bỉ, trẻ trung.",
+    "images": ["https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=400"],
+    "stock": 20
+  },
+  {
+    "id": 4,
+    "slug": "omega-seamaster-300m",
+    "name": "Omega Seamaster 300m",
+    "brand": "Omega",
+    "price": 120000000,
+    "gender": "nam",
+    "movement": "automatic",
+    "waterResistance": "300m",
+    "description": "Đồng hồ lặn huyền thoại, từng xuất hiện trong James Bond.",
+    "images": ["https://images.unsplash.com/photo-1542496658-e33a6d0c50f6?w=400"],
+    "stock": 4,
+    "isHot": true
+  },
+  {
+    "id": 5,
+    "slug": "tissot-prx",
+    "name": "Tissot PRX",
+    "brand": "Tissot",
+    "price": 12500000,
+    "gender": "nam",
+    "movement": "quartz",
+    "waterResistance": "100m",
+    "description": "Thiết kế retro đẹp, giá hợp túi tiền.",
+    "images": ["https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400"],
+    "stock": 15
+  }
+]
