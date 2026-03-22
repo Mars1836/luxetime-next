@@ -5,11 +5,13 @@ import './globals.css';
 
 const chatbotWidgetScriptUrl =
   process.env.NEXT_PUBLIC_CHATBOT_WIDGET_SCRIPT_URL ??
-  'http://localhost:3000/widget.js';
+  'https://smart-chat-assistant-nestjs-fe.vercel.app/widget.js';
 const chatbotWidgetOrigin =
-  process.env.NEXT_PUBLIC_CHATBOT_WIDGET_ORIGIN ?? 'http://localhost:3000';
+  process.env.NEXT_PUBLIC_CHATBOT_WIDGET_ORIGIN ??
+  'https://smart-chat-assistant-nestjs-fe.vercel.app';
 const chatbotApiBase =
-  process.env.NEXT_PUBLIC_CHATBOT_API_BASE ?? 'http://localhost:4000';
+  process.env.NEXT_PUBLIC_CHATBOT_API_BASE ??
+  'https://api-chatbot.codelife138.io.vn';
 const chatbotId =
   process.env.NEXT_PUBLIC_CHATBOT_ID ??
   '9382504a-9d4b-4764-ac63-240955cf55ae';
