@@ -10,8 +10,8 @@
     "waterResistance": "300m",
     "description": "Dòng đồng hồ lặn kinh điển của Rolex.",
     "images": [
-      "https://images.unsplash.com/photo-1546868871-7041f2a55e12?w=400",
-      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400"
+      "/images/products/rolex-submariner-116610ln-1.jpg",
+      "/images/products/rolex-submariner-116610ln-2.jpg"
     ],
     "stock": 3,
     "isHot": true
@@ -27,8 +27,8 @@
     "waterResistance": "50m",
     "description": "Chiếc đồng hồ \"Moonwatch\" nổi tiếng của Omega.",
     "images": [
-      "https://images.unsplash.com/photo-1587836374828-4dbafa94cf0e?w=400",
-      "https://images.unsplash.com/photo-1542496658-e33a6d0c50f6?w=400"
+      "/images/products/omega-speedmaster-moonwatch-1.jpg",
+      "/images/products/omega-speedmaster-moonwatch-2.jpg"
     ],
     "stock": 5,
     "isHot": true
@@ -43,7 +43,7 @@
     "movement": "quartz",
     "waterResistance": "200m",
     "description": "G-Shock \"CasiOak\" hot trend, bền bỉ, trẻ trung.",
-    "images": ["https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=400"],
+    "images": ["/images/products/casio-gshock-ga-2100-1.jpg"],
     "stock": 20
   },
   {
@@ -56,7 +56,7 @@
     "movement": "automatic",
     "waterResistance": "300m",
     "description": "Đồng hồ lặn huyền thoại, từng xuất hiện trong James Bond.",
-    "images": ["https://images.unsplash.com/photo-1542496658-e33a6d0c50f6?w=400"],
+    "images": ["/images/products/omega-seamaster-300m-1.jpg"],
     "stock": 4,
     "isHot": true
   },
@@ -70,7 +70,7 @@
     "movement": "quartz",
     "waterResistance": "100m",
     "description": "Thiết kế retro đẹp, giá hợp túi tiền.",
-    "images": ["https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400"],
+    "images": ["/images/products/tissot-prx-1.jpg"],
     "stock": 15
   }
 ]
