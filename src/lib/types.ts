@@ -11,6 +11,8 @@ export type Product = {
   images: string[];
   stock: number;
   isHot?: boolean;
+  /** Trang chi tiết Next.js: /product/[slug] — luôn set khi trả API để widget/chatbot không dùng nhầm domain khác. */
+  url?: string;
 };
 
 export type User = {

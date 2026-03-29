@@ -18,9 +18,12 @@ function toFullImageUrl(url: string, baseUrl: string): string {
 }
 
 function normalizeProduct(p: Product, baseUrl: string): Product {
+  const base = baseUrl.replace(/\/$/, '');
   return {
     ...p,
     images: (p.images || []).map((u) => toFullImageUrl(u, baseUrl)),
+    // App route: src/app/product/[slug]/page.tsx — không dùng product.html (bản static cũ)
+    url: `${base}/product/${encodeURIComponent(p.slug)}`,
   };
 }
 
